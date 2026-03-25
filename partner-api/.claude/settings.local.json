@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(java -version)",
+      "Bash(mvn -version)",
+      "Bash(mvn compile:*)",
+      "Bash(/usr/libexec/java_home -V 2>&1)",
+      "Bash(mvn:*)"
+    ]
+  }
+}

@@ -1,0 +1,1076 @@
+{
+  "tables": {
+    "DFI_GROUP_FEATURE_LINK": {
+      "table_name": "DFI_GROUP_FEATURE_LINK",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPS_BIN_NUMBER": {
+      "table_name": "DPS_BIN_NUMBER",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "TEMP_M_PLACE": {
+      "table_name": "TEMP_M_PLACE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_PAYMENT_METHOD": {
+      "table_name": "DP_PAYMENT_METHOD",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "HT_DPS_DATA_ANALYTICS": {
+      "table_name": "HT_DPS_DATA_ANALYTICS",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPS_DAILY_PER_PROVIDER_LIMIT": {
+      "table_name": "DPS_DAILY_PER_PROVIDER_LIMIT",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPS_WHITELIST": {
+      "table_name": "DPS_WHITELIST",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DWR_FILTER_GROUP": {
+      "table_name": "DWR_FILTER_GROUP",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPS_PROVIDER_BLACKLIST": {
+      "table_name": "DPS_PROVIDER_BLACKLIST",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "HT_COMMON_PROVIDER_ENTITY": {
+      "table_name": "HT_COMMON_PROVIDER_ENTITY",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DF_FEATURE_GROUP_LINK": {
+      "table_name": "DF_FEATURE_GROUP_LINK",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_CUTOFF_MARKET_LINK": {
+      "table_name": "DP_CUTOFF_MARKET_LINK",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DWR_MEASUREMENT": {
+      "table_name": "DWR_MEASUREMENT",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DS_MEASUREMENT": {
+      "table_name": "DS_MEASUREMENT",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "M_PLACE": {
+      "table_name": "M_PLACE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPSP_APPLICABLE": {
+      "table_name": "DPSP_APPLICABLE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DM_GROUP_LINK": {
+      "table_name": "DM_GROUP_LINK",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DS_SEGMENT_LINK": {
+      "table_name": "DS_SEGMENT_LINK",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DWR_SP_APPLICABLE": {
+      "table_name": "DWR_SP_APPLICABLE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_LANGUAGES": {
+      "table_name": "DP_LANGUAGES",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DF_PRESET_GROUP_LINK": {
+      "table_name": "DF_PRESET_GROUP_LINK",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPSP_EXPORT_RESULT": {
+      "table_name": "DPSP_EXPORT_RESULT",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "M_SPONSOR_PROMOTION": {
+      "table_name": "M_SPONSOR_PROMOTION",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPIP_RATE_NEW": {
+      "table_name": "DPIP_RATE_NEW",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_ITEM": {
+      "table_name": "DP_ITEM",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "HT_COMMON_PROMOTION_APPLICABLE": {
+      "table_name": "HT_COMMON_PROMOTION_APPLICABLE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPIP_AVAILABILITY": {
+      "table_name": "DPIP_AVAILABILITY",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPIP_EXTRA_RATE_DETAILS": {
+      "table_name": "DPIP_EXTRA_RATE_DETAILS",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "M_SIZE": {
+      "table_name": "M_SIZE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPIP_EXTRA_RATE": {
+      "table_name": "DPIP_EXTRA_RATE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_NOTICE": {
+      "table_name": "DP_NOTICE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DWR_CERTIFICATION": {
+      "table_name": "DWR_CERTIFICATION",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "M_PROVIDER": {
+      "table_name": "M_PROVIDER",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPP_BLACKLIST": {
+      "table_name": "DPP_BLACKLIST",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPIP_RATE_NEW_HIST": {
+      "table_name": "DPIP_RATE_NEW_HIST",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "HT_COMMON_PROMOTION_ANALYTICS_": {
+      "table_name": "HT_COMMON_PROMOTION_ANALYTICS_",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "M_DISTRIBUTOR": {
+      "table_name": "M_DISTRIBUTOR",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DFI_GROUP_COMPONENT_LINK": {
+      "table_name": "DFI_GROUP_COMPONENT_LINK",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPSP_PLAN_LINK": {
+      "table_name": "DPSP_PLAN_LINK",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_CONTACT": {
+      "table_name": "DP_CONTACT",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DWR_FEATURE_GROUP": {
+      "table_name": "DWR_FEATURE_GROUP",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPS_RAKUTEN_DAILY_LIMIT": {
+      "table_name": "DPS_RAKUTEN_DAILY_LIMIT",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DM_ARTICLE": {
+      "table_name": "DM_ARTICLE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_GROUP_TYPE": {
+      "table_name": "DP_GROUP_TYPE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_CUTOFF_HOLIDAY": {
+      "table_name": "DP_CUTOFF_HOLIDAY",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "TEMP_DWR_PLACE": {
+      "table_name": "TEMP_DWR_PLACE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPP_LOS": {
+      "table_name": "DPP_LOS",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_TAX_FEE_CONDITION": {
+      "table_name": "DP_TAX_FEE_CONDITION",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "HT_DPS_PER_PROVIDER_LIMIT": {
+      "table_name": "HT_DPS_PER_PROVIDER_LIMIT",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_NOTIFICATION": {
+      "table_name": "DP_NOTIFICATION",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_CERTIFICATION_LINK": {
+      "table_name": "DP_CERTIFICATION_LINK",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "M_CERTIFICATION": {
+      "table_name": "M_CERTIFICATION",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_MARKET_TOP_AREA": {
+      "table_name": "DP_MARKET_TOP_AREA",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPSP_AUTO_QUALIFIED_ITEM": {
+      "table_name": "DPSP_AUTO_QUALIFIED_ITEM",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DWR_COUPON": {
+      "table_name": "DWR_COUPON",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_INVENTORY_TRANSACTION": {
+      "table_name": "DP_INVENTORY_TRANSACTION",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "HT_DPS_APPLICABLE": {
+      "table_name": "HT_DPS_APPLICABLE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_RECOMMENDED_SPOT": {
+      "table_name": "DP_RECOMMENDED_SPOT",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPP_PAYMENT_METHOD": {
+      "table_name": "DPP_PAYMENT_METHOD",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "M_FOLDER": {
+      "table_name": "M_FOLDER",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DS_SIZE_MEASUREMENT_LINK": {
+      "table_name": "DS_SIZE_MEASUREMENT_LINK",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_GROUP": {
+      "table_name": "DP_GROUP",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "M_PARTNER_ACCESS_IP": {
+      "table_name": "M_PARTNER_ACCESS_IP",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPSP_OVERLAY_EXCLUDED_DAY": {
+      "table_name": "DPSP_OVERLAY_EXCLUDED_DAY",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPS_COUPON": {
+      "table_name": "DPS_COUPON",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "SRCH_IRP_MIN_RATE": {
+      "table_name": "SRCH_IRP_MIN_RATE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPS_PER_PROVIDER_LIMIT": {
+      "table_name": "DPS_PER_PROVIDER_LIMIT",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DWR_PROVIDER": {
+      "table_name": "DWR_PROVIDER",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPP_CXL_POLICY": {
+      "table_name": "DPP_CXL_POLICY",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "HT_COMMON_RECOMMENDED_SPOT_ENT": {
+      "table_name": "HT_COMMON_RECOMMENDED_SPOT_ENT",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DWR_FEATURE_JJH": {
+      "table_name": "DWR_FEATURE_JJH",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPSP_OVERLAY_EXCLUDED_ITEMS": {
+      "table_name": "DPSP_OVERLAY_EXCLUDED_ITEMS",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DWR_ARTICLE": {
+      "table_name": "DWR_ARTICLE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPSP_PLAN_LINK_NOTIFICATION": {
+      "table_name": "DPSP_PLAN_LINK_NOTIFICATION",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_ITEM_PLAN_LINK": {
+      "table_name": "DP_ITEM_PLAN_LINK",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DM_MEDIA_BLACKLIST": {
+      "table_name": "DM_MEDIA_BLACKLIST",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DWR_SIZE": {
+      "table_name": "DWR_SIZE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DF_GROUP": {
+      "table_name": "DF_GROUP",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPP_CXL_PLAN_PERIOD": {
+      "table_name": "DPP_CXL_PLAN_PERIOD",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_PLAN": {
+      "table_name": "DP_PLAN",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "HT_COMMON_PLACE_ENCLOSED_SPOT_": {
+      "table_name": "HT_COMMON_PLACE_ENCLOSED_SPOT_",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPS_PLAN_LINK": {
+      "table_name": "DPS_PLAN_LINK",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "MDRT_2B06D$": {
+      "table_name": "MDRT_2B06D$",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPSP_OVERLAY": {
+      "table_name": "DPSP_OVERLAY",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPI_BLACKLIST": {
+      "table_name": "DPI_BLACKLIST",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DWR_MEDIUM_GROUP": {
+      "table_name": "DWR_MEDIUM_GROUP",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DFI_GROUP": {
+      "table_name": "DFI_GROUP",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPP_AVAILABILITY_HIST": {
+      "table_name": "DPP_AVAILABILITY_HIST",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "HT_DPS_DAILY_PER_PROVIDER_LIMI": {
+      "table_name": "HT_DPS_DAILY_PER_PROVIDER_LIMI",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPS_PER_MEMBER_LIMIT": {
+      "table_name": "DPS_PER_MEMBER_LIMIT",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "M_CHANNEL_MANAGER": {
+      "table_name": "M_CHANNEL_MANAGER",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "M_SIZE_GROUP": {
+      "table_name": "M_SIZE_GROUP",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DWR_ITEM": {
+      "table_name": "DWR_ITEM",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPS_DATA_ANALYTICS": {
+      "table_name": "DPS_DATA_ANALYTICS",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DWR_FEATURE": {
+      "table_name": "DWR_FEATURE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DD_PROVIDER_TYPE": {
+      "table_name": "DD_PROVIDER_TYPE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DM_GROUP": {
+      "table_name": "DM_GROUP",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "M_SALES_PROMOTION": {
+      "table_name": "M_SALES_PROMOTION",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "SRCH_EXCHANGE_RATE": {
+      "table_name": "SRCH_EXCHANGE_RATE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_GROUP_OBJECTIVE": {
+      "table_name": "DP_GROUP_OBJECTIVE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPIP_AVAILABILITY_HIST": {
+      "table_name": "DPIP_AVAILABILITY_HIST",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPS_PLAN_BLACKLIST": {
+      "table_name": "DPS_PLAN_BLACKLIST",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPP_AVAILABILITY": {
+      "table_name": "DPP_AVAILABILITY",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DWR_TAX_FEE": {
+      "table_name": "DWR_TAX_FEE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPP_CXL_POLICY_DETAIL": {
+      "table_name": "DPP_CXL_POLICY_DETAIL",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "M_FILTER_COMPONENT": {
+      "table_name": "M_FILTER_COMPONENT",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DM_ARTICLE_GROUP_LINK": {
+      "table_name": "DM_ARTICLE_GROUP_LINK",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_GROUP_CONTACT": {
+      "table_name": "DP_GROUP_CONTACT",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DWR_NOTICE": {
+      "table_name": "DWR_NOTICE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "M_PLACE_NEARBY_TERMINAL": {
+      "table_name": "M_PLACE_NEARBY_TERMINAL",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "SRCH_PROVIDER_MIN_RATE": {
+      "table_name": "SRCH_PROVIDER_MIN_RATE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "HT_M_PROVIDER": {
+      "table_name": "HT_M_PROVIDER",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DF_PRESET_GROUP": {
+      "table_name": "DF_PRESET_GROUP",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "D_MARKET_DISPLAY_METHOD": {
+      "table_name": "D_MARKET_DISPLAY_METHOD",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_TAX_FEE": {
+      "table_name": "DP_TAX_FEE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "HT_M_PLACE_ENCLOSED_SPOT": {
+      "table_name": "HT_M_PLACE_ENCLOSED_SPOT",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPS_PAYMENT_METHOD": {
+      "table_name": "DPS_PAYMENT_METHOD",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DWR_MEDIA": {
+      "table_name": "DWR_MEDIA",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPI_INVENTORY": {
+      "table_name": "DPI_INVENTORY",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DWR_SP_PLAN_LINK": {
+      "table_name": "DWR_SP_PLAN_LINK",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPS_EXCLUDED_DAY": {
+      "table_name": "DPS_EXCLUDED_DAY",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "HT_DP_RECOMMENDED_SPOT": {
+      "table_name": "HT_DP_RECOMMENDED_SPOT",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPSP_EVENT_STATUS": {
+      "table_name": "DPSP_EVENT_STATUS",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_LOCATION": {
+      "table_name": "DP_LOCATION",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPP_CXL_PLAN_LINK": {
+      "table_name": "DPP_CXL_PLAN_LINK",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPIP_RATE": {
+      "table_name": "DPIP_RATE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "M_FEATURE": {
+      "table_name": "M_FEATURE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPS_PROHIBITED_PLACE": {
+      "table_name": "DPS_PROHIBITED_PLACE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DM_MEDIUM_LINK": {
+      "table_name": "DM_MEDIUM_LINK",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_BLACKLIST": {
+      "table_name": "DP_BLACKLIST",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DWR_PROVIDER_GROUP": {
+      "table_name": "DWR_PROVIDER_GROUP",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPS_APPLICABLE": {
+      "table_name": "DPS_APPLICABLE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "SRCH_PROVIDER_IDX": {
+      "table_name": "SRCH_PROVIDER_IDX",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "SRCH_EVALUATION": {
+      "table_name": "SRCH_EVALUATION",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DWR_SIZE_MEASUREMENT": {
+      "table_name": "DWR_SIZE_MEASUREMENT",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPP_LOS_EFFECTIVE_PERIOD": {
+      "table_name": "DPP_LOS_EFFECTIVE_PERIOD",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPI_INVENTORY_HIST": {
+      "table_name": "DPI_INVENTORY_HIST",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DWR_PLACE": {
+      "table_name": "DWR_PLACE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "SRCH_FEATURE_IDX": {
+      "table_name": "SRCH_FEATURE_IDX",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "SPATIAL_DATA": {
+      "table_name": "SPATIAL_DATA",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DF_FEATURE_LINK": {
+      "table_name": "DF_FEATURE_LINK",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPSP_INVITATION_NOTIFICATION": {
+      "table_name": "DPSP_INVITATION_NOTIFICATION",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "M_PLACE_ENCLOSED_SPOT": {
+      "table_name": "M_PLACE_ENCLOSED_SPOT",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DPS_INCENTIVE": {
+      "table_name": "DPS_INCENTIVE",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "HT_COMMON_PROMOTION_PER_PROVID": {
+      "table_name": "HT_COMMON_PROMOTION_PER_PROVID",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_EVALUATION": {
+      "table_name": "DP_EVALUATION",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DWR_PLAN": {
+      "table_name": "DWR_PLAN",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DS_SIZE_LINK": {
+      "table_name": "DS_SIZE_LINK",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "HT_COMMON_PROMOTION_DAILY_PER_": {
+      "table_name": "HT_COMMON_PROMOTION_DAILY_PER_",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "M_MEDIA": {
+      "table_name": "M_MEDIA",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    },
+    "DP_PROVIDER_GROUP_LINK": {
+      "table_name": "DP_PROVIDER_GROUP_LINK",
+      "columns": [],
+      "relationships": {},
+      "fully_loaded": false
+    }
+  },
+  "last_updated": 1774460868.1023738,
+  "all_table_names": [
+    "DFI_GROUP_FEATURE_LINK",
+    "DPS_BIN_NUMBER",
+    "TEMP_M_PLACE",
+    "DP_PAYMENT_METHOD",
+    "HT_DPS_DATA_ANALYTICS",
+    "DPS_DAILY_PER_PROVIDER_LIMIT",
+    "DPS_WHITELIST",
+    "HT_COMMON_PROVIDER_ENTITY",
+    "DWR_FILTER_GROUP",
+    "DPS_PROVIDER_BLACKLIST",
+    "DF_FEATURE_GROUP_LINK",
+    "DP_CUTOFF_MARKET_LINK",
+    "DWR_MEASUREMENT",
+    "DS_MEASUREMENT",
+    "M_PLACE",
+    "DPSP_APPLICABLE",
+    "DM_GROUP_LINK",
+    "DS_SEGMENT_LINK",
+    "DWR_SP_APPLICABLE",
+    "DP_LANGUAGES",
+    "DF_PRESET_GROUP_LINK",
+    "DPSP_EXPORT_RESULT",
+    "M_SPONSOR_PROMOTION",
+    "DPIP_RATE_NEW",
+    "DP_ITEM",
+    "HT_COMMON_PROMOTION_APPLICABLE",
+    "DPIP_AVAILABILITY",
+    "DPIP_EXTRA_RATE_DETAILS",
+    "M_SIZE",
+    "DPIP_EXTRA_RATE",
+    "DP_NOTICE",
+    "DWR_CERTIFICATION",
+    "M_PROVIDER",
+    "DPP_BLACKLIST",
+    "DPIP_RATE_NEW_HIST",
+    "HT_COMMON_PROMOTION_ANALYTICS_",
+    "M_DISTRIBUTOR",
+    "DFI_GROUP_COMPONENT_LINK",
+    "DPSP_PLAN_LINK",
+    "DP_CONTACT",
+    "DWR_FEATURE_GROUP",
+    "DPS_RAKUTEN_DAILY_LIMIT",
+    "DM_ARTICLE",
+    "DP_GROUP_TYPE",
+    "DP_CUTOFF_HOLIDAY",
+    "TEMP_DWR_PLACE",
+    "DPP_LOS",
+    "DP_TAX_FEE_CONDITION",
+    "HT_DPS_PER_PROVIDER_LIMIT",
+    "DP_NOTIFICATION",
+    "DP_CERTIFICATION_LINK",
+    "M_CERTIFICATION",
+    "DP_MARKET_TOP_AREA",
+    "DPSP_AUTO_QUALIFIED_ITEM",
+    "DWR_COUPON",
+    "DP_INVENTORY_TRANSACTION",
+    "HT_DPS_APPLICABLE",
+    "DP_RECOMMENDED_SPOT",
+    "DPP_PAYMENT_METHOD",
+    "M_FOLDER",
+    "DS_SIZE_MEASUREMENT_LINK",
+    "DP_GROUP",
+    "M_PARTNER_ACCESS_IP",
+    "DPSP_OVERLAY_EXCLUDED_DAY",
+    "DPS_COUPON",
+    "SRCH_IRP_MIN_RATE",
+    "DPS_PER_PROVIDER_LIMIT",
+    "DWR_PROVIDER",
+    "DPP_CXL_POLICY",
+    "HT_COMMON_RECOMMENDED_SPOT_ENT",
+    "DWR_FEATURE_JJH",
+    "DPSP_OVERLAY_EXCLUDED_ITEMS",
+    "DWR_ARTICLE",
+    "DPSP_PLAN_LINK_NOTIFICATION",
+    "DP_ITEM_PLAN_LINK",
+    "DM_MEDIA_BLACKLIST",
+    "DWR_SIZE",
+    "DF_GROUP",
+    "DPP_CXL_PLAN_PERIOD",
+    "DP_PLAN",
+    "HT_COMMON_PLACE_ENCLOSED_SPOT_",
+    "DPS_PLAN_LINK",
+    "MDRT_2B06D$",
+    "DPSP_OVERLAY",
+    "DPI_BLACKLIST",
+    "DWR_MEDIUM_GROUP",
+    "DFI_GROUP",
+    "DPP_AVAILABILITY_HIST",
+    "HT_DPS_DAILY_PER_PROVIDER_LIMI",
+    "DPS_PER_MEMBER_LIMIT",
+    "M_CHANNEL_MANAGER",
+    "M_SIZE_GROUP",
+    "DWR_ITEM",
+    "DPS_DATA_ANALYTICS",
+    "DWR_FEATURE",
+    "DD_PROVIDER_TYPE",
+    "DM_GROUP",
+    "M_SALES_PROMOTION",
+    "SRCH_EXCHANGE_RATE",
+    "DP_GROUP_OBJECTIVE",
+    "DPIP_AVAILABILITY_HIST",
+    "DPS_PLAN_BLACKLIST",
+    "DPP_AVAILABILITY",
+    "DWR_TAX_FEE",
+    "DPP_CXL_POLICY_DETAIL",
+    "M_FILTER_COMPONENT",
+    "DM_ARTICLE_GROUP_LINK",
+    "DP_GROUP_CONTACT",
+    "DWR_NOTICE",
+    "M_PLACE_NEARBY_TERMINAL",
+    "SRCH_PROVIDER_MIN_RATE",
+    "HT_M_PROVIDER",
+    "DF_PRESET_GROUP",
+    "D_MARKET_DISPLAY_METHOD",
+    "DP_TAX_FEE",
+    "HT_M_PLACE_ENCLOSED_SPOT",
+    "DPS_PAYMENT_METHOD",
+    "DWR_MEDIA",
+    "DPI_INVENTORY",
+    "DWR_SP_PLAN_LINK",
+    "DPS_EXCLUDED_DAY",
+    "HT_DP_RECOMMENDED_SPOT",
+    "DPSP_EVENT_STATUS",
+    "DP_LOCATION",
+    "DPP_CXL_PLAN_LINK",
+    "DPIP_RATE",
+    "M_FEATURE",
+    "DPS_PROHIBITED_PLACE",
+    "DM_MEDIUM_LINK",
+    "DP_BLACKLIST",
+    "DWR_PROVIDER_GROUP",
+    "DPS_APPLICABLE",
+    "SRCH_PROVIDER_IDX",
+    "SRCH_EVALUATION",
+    "DWR_SIZE_MEASUREMENT",
+    "DPP_LOS_EFFECTIVE_PERIOD",
+    "DPI_INVENTORY_HIST",
+    "DWR_PLACE",
+    "SRCH_FEATURE_IDX",
+    "SPATIAL_DATA",
+    "DF_FEATURE_LINK",
+    "DPSP_INVITATION_NOTIFICATION",
+    "M_PLACE_ENCLOSED_SPOT",
+    "DPS_INCENTIVE",
+    "HT_COMMON_PROMOTION_PER_PROVID",
+    "DP_EVALUATION",
+    "DWR_PLAN",
+    "DS_SIZE_LINK",
+    "HT_COMMON_PROMOTION_DAILY_PER_",
+    "M_MEDIA",
+    "DP_PROVIDER_GROUP_LINK"
+  ],
+  "object_cache": {
+    "plsql": {},
+    "constraints": {},
+    "indexes": {},
+    "types": {},
+    "related_tables": {}
+  },
+  "cache_stats": {
+    "hits": 0,
+    "misses": 0,
+    "last_full_refresh": 1774460866.269066
+  }
+}
